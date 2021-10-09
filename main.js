@@ -1,6 +1,6 @@
 name_student_array=[];
 function submit(){
-var name_1=document.getElementById("student_1").value;
+var name_1=document.getElementById("student1").value;
 var name_2=document.getElementById("student2").value;
 var name_3=document.getElementById("student3").value;
 var name_4=documnet.getElementById("student4").value;
